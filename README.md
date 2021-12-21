@@ -1,7 +1,7 @@
 ### Fala pessoal! 👋
 
 - 🔭 Nesse momento estou no início da transição de carreira para a área de tecnologia.
-- 🌱 No momento estou me aperfeiçoando em Spring Boot.
+- 🌱 Estou revendo o básico de algoritmos e estruturas de dados, sem deixar de me aperfeiçoar em Spring Boot.
 - 👯 Estou procurando oportunidade para colaborar em projetos Java.
 - 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética e ciclismo amador!
 - 📫 Como me encontrar: https://www.linkedin.com/in/vinicius-beraldo/
