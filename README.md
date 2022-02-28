@@ -1,9 +1,9 @@
 ### Fala pessoal! 👋
 
-- 🔭 Nesse momento estou no início da transição de carreira para a área de tecnologia.
-- 🌱 Estou estudando alguns conceitos mais avançados de Java, sem deixar de me aperfeiçoar em Spring Boot.
-- 👯 Estou procurando oportunidade para colaborar em projetos Java.
-- 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética e ciclismo amador!
+- 🔭 Sou desenvolvedor com desejo de ser relevante pro mundo de maneira positiva.
+- 🌱 Estou estudando a linguagem Java, mas gosto de saber um pouco sobre todo ecossistema de tecnolgia.
+- 👯 Estou procurando oportunidade para colaborar em projetos também!
+- 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética, ciclismo e corrida!
 - 📫 Como me encontrar: https://www.linkedin.com/in/vinicius-beraldo/
 
 <!--
