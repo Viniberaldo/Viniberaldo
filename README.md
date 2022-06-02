@@ -3,7 +3,7 @@
 - 🔭 Sou desenvolvedor com desejo de ser relevante pro mundo de maneira positiva.
 - 🌱 Estou estudando a linguagem Java, mas gosto de saber um pouco sobre todo ecossistema de tecnolgia.
 - 👯 Estou procurando oportunidade para colaborar em projetos também!
-- 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética, ciclismo e corrida!
+- 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética, ciclismo e exercícios!
 - 📫 Como me encontrar: https://www.linkedin.com/in/vinicius-beraldo/
 
 <!--
