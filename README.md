@@ -6,6 +6,7 @@
 - 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética, ciclismo e exercícios!
 - 📫 Como me encontrar: https://www.linkedin.com/in/vinicius-beraldo/
 
+![](https://komarev.com/ghpvc/?username=viniberaldo&color=brightgreen)
 <!--
 **Viniberaldo/Viniberaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
