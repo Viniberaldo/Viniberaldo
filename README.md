@@ -1,9 +1,9 @@
-### Fala pessoal! 👋
+###  Saudações! 🖖
 
-- 🔭 Sou desenvolvedor com desejo de ser relevante pro mundo de maneira positiva.
-- 🌱 Estou trabalhando com a linguagem Java, mas gosto de saber um pouco sobre todo ecossistema de tecnologia.
-- 👯 Estou procurando oportunidade para colaborar em projetos também!
-- 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética, ciclismo e exercícios!
+- 🔭 Sou um engenheiro com desejo de ser relevante pro mundo de maneira positiva.
+- 🌱 Estou trabalhando com a linguagem Java. Conheço Javascript e Python, mas gosto de saber sobre todo ecossistema de tecnologia.
+- 👯 Estou procurando oportunidade para colaborar em projetos open source também!
+- 💬 Me pergunte sobre tecnologia, química, mercado financeiro, meio ambiente, eficiência energética, ciclismo e musculação!
 - 📫 Como me encontrar: https://www.linkedin.com/in/vinicius-beraldo/
 
 ![](https://komarev.com/ghpvc/?username=viniberaldo&color=brightgreen)
